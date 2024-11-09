@@ -1,4 +1,4 @@
-- ⚡ Fun fact: ... Ass
+My Fun  Fact... Ass
 
 <!---
 Nikodem112/Nikodem112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
